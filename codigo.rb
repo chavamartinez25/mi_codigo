@@ -1,1 +1,6 @@
-puts "Primer proyecto"
+def saluda
+	puts "Primer proyecto"
+end 
+
+saluda()
+
